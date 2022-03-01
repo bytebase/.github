@@ -21,7 +21,7 @@ We have 2 open-source projects:
 
 ### For DBA - 10x operational efficiency
 
-A collaborative web-console to allow DBAs to manage database tasks and handle developer tickets much more efficiently than traditonal tools.
+A collaborative web-console to allow DBAs to manage database tasks and handle developer tickets much more efficiently than traditional tools.
 
 ### For Tech Lead - Improve team velocity and reduce risk
 
