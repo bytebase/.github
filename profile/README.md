@@ -4,7 +4,7 @@
 
 We have 2 open-source projects:
 
-- [Bytebase](https://bytebase.com), a **web-based**, **zero-config**, **dependency-free** database schema change and version control management tool for DBAs and developers.
+- [Bytebase](https://bytebase.com), a **web-based**, **zero-config**, **dependency-free** database schema change and version control management tool for DBAs and developers. Focus on safety and efficiency.
 - [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&Date)
