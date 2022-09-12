@@ -4,7 +4,7 @@
 
 We have 2 open-source projects:
 
-- [Bytebase](https://bytebase.com), a **web-based**, **zero-config**, **dependency-free** database schema change and version control management tool for DBAs and developers. Focus on safety and efficiency.
+- [Bytebase](https://bytebase.com), a **web-based**, **zero-config** database schema change and version control management tool for Developers and DBAs. Focus on safety and efficiency.
 - [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&Date)
@@ -17,9 +17,9 @@ We have 2 open-source projects:
 
 ## Bytebase 🏟
 
-[Bytebase](https://bytebase.com) wants to address the pain points around collaboration among DBAs and Developers, and also re-define the workflow when building database applications.
+[Bytebase](https://bytebase.com) wants to address the pain points around collaboration among Developers and DBAs, and also re-define the Database CI/CD process.
 
-### For DBA - 10x operational efficiency
+### For DBA and DevOps Team - 10x operational efficiency
 
 A collaborative web-console to allow DBAs to manage database tasks and handle developer tickets much more efficiently than traditional tools.
 
