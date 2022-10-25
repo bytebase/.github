@@ -1,6 +1,6 @@
 ## Hey, this is Bytebase 👋
 
-![Database schema change and version control for teams.](https://raw.githubusercontent.com/bytebase/bytebase/main/docs/assets/illustration/banner.webp)
+![Database schema change and version control for teams.](https://raw.githubusercontent.com/bytebase/bytebase/main/docs/assets/banner.webp)
 
 We have 2 open-source projects:
 
