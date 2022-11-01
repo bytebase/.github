@@ -4,7 +4,7 @@
 
 We have 2 open-source projects:
 
-- [Bytebase](https://bytebase.com), a **web-based**, **zero-config** database schema change and version control management tool for Developers and DBAs. Focus on safety and efficiency.
+- [Bytebase](https://bytebase.com), a Database CI/CD tool for DevOps teams, built for Developers and DBAs. It's the only database CI/CD solution included by the [CNCF landscape](https://landscape.cncf.io/?selected=bytebase).
 - [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&Date)
