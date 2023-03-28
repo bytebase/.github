@@ -14,7 +14,7 @@ We have 3 open-source projects:
 👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
 
 ```markdown
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history,bytebase/dbcost&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&bytebase/dbcost&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/dbcost,star-history/star-history,bytebase/sqlchat&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/dbcost&star-history/star-history&bytebase/sqlchat&Date)
 ```
 
 ## Bytebase 🏟
