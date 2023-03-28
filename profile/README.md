@@ -5,10 +5,11 @@
 We have 3 open-source projects:
 
 - [Bytebase](https://bytebase.com), a Database CI/CD tool for DevOps teams, built for Developers and DBAs. It's the only database CI/CD solution included by the [CNCF landscape](https://landscape.cncf.io/?selected=bytebase).
+- [SQL Chat](https://sqlchat.ai), Chat-based SQL Client.
 - [star-history](https://star-history.com), the de facto GitHub star history chart on the web.
 - [DB Cost](https://dbcost.com), the simple pricing calculator and comparison tool for the cloud databases.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history,bytebase/dbcost&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/star-history&bytebase/dbcost&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=bytebase/bytebase,bytebase/star-history,bytebase/dbcost&type=Date)](https://star-history.com/#bytebase/bytebase&bytebase/dbcost&star-history/star-history&bytebase/sqlchat&Date)
 
 👆 this is a live chart served from [star-history](https://star-history.com) with the following code:
 
@@ -31,6 +32,10 @@ Teams using Bytebase will naturally adopt industry best practice for managing da
 ### For Developer - Holistic view of database schema changes
 
 Regardless of working as an IC in a team or managing your own side project, developers using Bytebase will have a holistic view of all the related database info, the ongoing database schema change tasks and the past database migration history.
+
+## SQL Chat 💬
+
+Chat-based SQL Client.
 
 ## star-history ⭐️
 
