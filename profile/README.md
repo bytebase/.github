@@ -2,7 +2,7 @@
 
 ![Database schema change and version control for teams.](https://raw.githubusercontent.com/bytebase/bytebase/main/docs/assets/banner.webp)
 
-We have 3 open-source projects:
+We have 4 open-source projects:
 
 - [Bytebase](https://bytebase.com), a Database CI/CD tool for DevOps teams, built for Developers and DBAs. It's the only database CI/CD solution included by the [CNCF landscape](https://landscape.cncf.io/?selected=bytebase).
 - [SQL Chat](https://sqlchat.ai), Chat-based SQL Client.
